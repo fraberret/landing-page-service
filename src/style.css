@@ -7,3 +7,8 @@
     --circus-primary:#4bc082;
     --circus-accent:#ec6c5b;
 }
+
+.header-banner{
+    background-color: var(--circus-accent);
+    color: white;
+}
