@@ -11,7 +11,7 @@ export default {
             <p class="m-0">Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime, hic?</p>
         </div>
 
-        <nav class="navbar navbar-expand-lg ">
+        <nav class="py-4 navbar navbar-expand-lg ">
             <div class="container-fluid ">
                 <a class="navbar-brand p-0" href="#">
                     <img src="/img/logo.png" alt=""></a>
