@@ -11,21 +11,33 @@
             <p class="m-0">Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime, hic?</p>
         </div>
 
-           <nav class="navbar navbar-expand-sm navbar-light bg-primary">
-               <div class="container-fluid">
-                   <a class="navbar-brand" href="#"><img src="" alt=""></a>
-                   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarID"
-                       aria-controls="navbarID" aria-expanded="false" aria-label="Toggle navigation">
-                       <span class="navbar-toggler-icon"></span>
-                   </button>
-                   <div class="collapse navbar-collapse" id="navbarID">
-                       <div class="navbar-nav">
-                           <a class="nav-link active" aria-current="page" href="#">Home</a>
-                           
-                       </div>
-                   </div>
-               </div>
-           </nav>
+        <div class="nav-section py-4 px-3 d-flex justify-content-between align-center">
+            <div class="logo">
+                <img src="/img/logo.png" alt="">
+            </div>
+
+            <div class="nav">
+                <ul class="d-flex gap-5 m-0 list-unstyled">
+                    <li>lorem</li>
+                    <li>lorem</li>
+                    <li>lorem</li>
+                    <li>lorem</li>
+                    <li>lorem</li>
+                    
+                </ul>
+            </div>
+
+            <div class="nav">
+                <ul class="d-flex gap-3 m-0 list-unstyled">
+                    <li><i class="fa fa-user-circle" aria-hidden="true"></i></li>
+                    <li><i class="fa fa-heart" aria-hidden="true"></i></li>
+                    <li><i class="fa fa-shopping-bag" aria-hidden="true"></i></li>
+                    <li><i class="fa fa-search" aria-hidden="true"></i></li>
+                    
+                    
+                </ul>
+            </div>
+        </div>
     </header>
 </template>
 
